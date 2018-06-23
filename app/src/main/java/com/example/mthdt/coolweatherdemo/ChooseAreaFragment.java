@@ -15,6 +15,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.coolweather.android.R;
 import com.example.mthdt.coolweatherdemo.db.City;
 import com.example.mthdt.coolweatherdemo.db.County;
 import com.example.mthdt.coolweatherdemo.db.Province;

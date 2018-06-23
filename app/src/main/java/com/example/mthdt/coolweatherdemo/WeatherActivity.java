@@ -20,6 +20,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
+import com.coolweather.android.R;
 import com.example.mthdt.coolweatherdemo.gson.Forecast;
 import com.example.mthdt.coolweatherdemo.gson.Weather;
 import com.example.mthdt.coolweatherdemo.util.HttpUtil;

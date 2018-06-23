@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\mthdt\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_0fed795b3d1e6bce6a10107fc9015c8f11d81681.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mthdt\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_a8fc0145a7581bb56f20a510d80af702bde6e5ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_0b1121eeff4b535b02b0eda4c79881c71540c04d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_119c45c5f26d13925569e36552083d582c9783c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_9f08f382dd2523f7c5b3911d6c20abeb05ebe314.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_83ee3ca441e592976b92f7c558a03171f4d9247d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mthdt\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\glide-3.7.0_f3bdb9fd5d61491d6cfdd595b4d31558f2f0138b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_478d88e4846d9bd6c273e85fcbafd0936d7653c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mthdt\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\gson-2.7_e5f7996f3c3f75bc4ab1d5762f2ef550c921119f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_09fb07112219ce9f916dadfb11ed40e42899e09a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_d2d67dafd4a7e6920ba84f86bc4af28c2f808bb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_8a2b94b73f89f3eb700117f48acf37453bbeb32a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\mthdt\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\okio-1.9.0_2d5ca9021dcb925f2bd70a27fd8a4dc1dba4155c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_45c1112bda00fc62a479b46ec5c295310eb0a087.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_6c0770f1b7e1e311cd2e4a8cdba409d310f71f20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_1da6742b0f9af6c4a3bc04a3128e3414377e1402.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_82d9bde06cc22f3aedcf2ed5541e47068b22f1fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_2301a7bfa89d7fac83007ebf9e3d613852e86926.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_04da33ccfd7255e4a14be2be68d72933b1718d89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\exploded-aar\org.litepal.android\core\1.3.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9a24b1b000b211eabfa13b5834c059818bc98fd5">
+        <dex dex="E:\AndroidStudioProjects\CoolWeatherDemo\app\build\intermediates\pre-dexed\debug\org.litepal.android-core-1.3.2_b5c92b854b289c390455bd5e60440fab102a6b6e.jar" />
+    </item>
+
+</items>
